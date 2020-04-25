@@ -1,5 +1,5 @@
 # Linux.systems.max.memory.informations
-This project takes linux systems max heap ,stack and data memory informations and print on terminal.
+This project takes linux systems max heap ,stack and data memory informations from /proc/{pid}/smaps and print on terminal.
 
 OUTPUT:
 ./soru1
